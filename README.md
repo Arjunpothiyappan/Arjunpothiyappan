@@ -1,5 +1,3 @@
-## Hi there 👋 It's me Arjun
-
 <h1>Hi 👋, I'm  Arjun</h1>
 <p>I'm a Mechanical Engineering student with a strong passion for Data Analytics and Data Science. I love working with data, uncovering insights, and creating impactful visualizations.</p>
 <h2>🚀 Languages and Tools I Use</h2>
